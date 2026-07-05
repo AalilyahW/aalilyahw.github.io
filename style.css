@@ -1,5 +1,5 @@
 body {
-    background-color: #e0c3c3;
+    background-color: #f7e8e8;
     font-family: "Heidelberg 2023", serif;
     font-weight: 300;
     color: #0f0b0b;
@@ -50,7 +50,7 @@ a:hover {
 div {
     width: 300px;
     height: 100px;
-    background-color: #d0a971;
+    background-color: #be1e81;
     border: 2px solid #c4adb3;
     padding: 20px;
     margin: 30px 0;
