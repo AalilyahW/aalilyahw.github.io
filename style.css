@@ -1,6 +1,6 @@
 body {
     background-color: #e5e1e1;
-    font-family: serif;
+    font-family: "Heidelberg 2023", serif;
     font-weight: 300;
     color: #0f0b0b;
     line-height: 1.8;
@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
 }
 p:first-of-type {
-    background-color: #da68e9;
+    background-color: #c4adb3;
     border-left: 3px solid #e7384d;
     padding: 24px;
     border-radius: 4px;
@@ -27,9 +27,6 @@ h1, h2, h3 {
 }
 h2 {
     font-size: 1.2rem;
-    font-style: bold;
-    font-family: serif;
-    font-weight: 500;
 }
 ul {
     padding-left: 20px;
@@ -53,8 +50,8 @@ a:hover {
 div {
     width: 300px;
     height: 100px;
-    background-color: #fdfbf7;
-    border: 2px solid #e7384d;
+    background-color: #d0a971;
+    border: 2px solid #c4adb3;
     padding: 20px;
     margin: 30px 0;
     font-family: sans-serif;
