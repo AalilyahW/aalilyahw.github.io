@@ -17,7 +17,7 @@ p:first-of-type {
     margin-bottom: 30px;
 }
 h1, h2, h3 {
-    font-family: sztos-variable, serif;
+    font-family: "sztos-variable", serif;
     font-style: normal;
     color: #e7384d;
     font-weight: 700;
