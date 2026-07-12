@@ -25,6 +25,7 @@ To eliminate scope creep and ensure timely delivery, the current project lifecyc
 ## Constraints & Assumptions
 * **Time Constraint:** The completed repository and live deployment link must be finalized and submitted before the hard final project deadline.
 * **Quality Constraint:** All HTML documents must pass clean, error-free verification via the official W3C HTML Validator. The visual interface must remain responsive and display correctly across standard desktop and mobile browser dimensions.
+* **Design & Branding Constraint:** The website will utilize an editorial-style typography pairing to reflect beauty and fashion industry standards. Headings will feature an elegant serif font (such as *Playfair Display* or *Cormorant Garamond*) to convey high-end sophistication, while body copy will rely on a clean, modern sans-serif font (such as *Montserrat* or *Lato*) to ensure digital readability and a contemporary aesthetic.
+* **Resource & Budget Assumption:** The project assumes a budget baseline of $0.00, relying exclusively on open-source editing platforms (VS Code), free Google/ AdobeFonts for typography, and free cloud-hosting resources (GitHub Pages).
 * **Technology Assumption:** Development will be completed using Visual Studio Code, GitHub, GitHub Pages, HTML, CSS, and Markdown.
-* **Resource Assumption:** Open-source software and free hosting services will remain available throughout the project.
 * **Stakeholder Assumption:** Instructor feedback and project requirements will remain available throughout the semester.
